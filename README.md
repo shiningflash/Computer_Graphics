@@ -39,6 +39,9 @@ Symmetric Star Preview </br>
 Special Symbol Preview </br>
 ![view_symbol](https://user-images.githubusercontent.com/35567854/70389663-b487db00-19ec-11ea-903f-0ed8bef40efe.PNG) </br>
 --------------------------------------------------
+Cube preview </br>
+![view_cube](https://user-images.githubusercontent.com/35567854/70390091-0bdc7a00-19f2-11ea-9fc1-300fef34f036.PNG) </br>
+--------------------------------------------------
 Line Clipping Window Preview </br>
 ![view_clipped_line](https://user-images.githubusercontent.com/35567854/70389660-b3ef4480-19ec-11ea-9fcd-3da11ef95320.PNG) </br>
 --------------------------------------------------
