@@ -26,21 +26,15 @@ Frome now on for every project you create goto project->properties->javaBuildPat
 
 Line Draw Preview </br>
 ![view_line](https://user-images.githubusercontent.com/35567854/70389661-b3ef4480-19ec-11ea-9d27-b739fe92b5a7.PNG)
------------------
 Mid Point Circle Preview </br>
 ![view_circle_](https://user-images.githubusercontent.com/35567854/70389665-b487db00-19ec-11ea-813a-92698b7fb0f7.PNG)
------------------
 Special Mid Point Circle with Line Inside </br>
 ![view_circle](https://user-images.githubusercontent.com/35567854/70389664-b487db00-19ec-11ea-8e42-1198a7122c66.PNG)
------------------
 Symmetric Star Preview </br>
 ![view_star](https://user-images.githubusercontent.com/35567854/70389662-b3ef4480-19ec-11ea-8cf4-9b6aa861bf11.PNG)
------------------
 Special Symbol Preview </br>
 ![view_symbol](https://user-images.githubusercontent.com/35567854/70389663-b487db00-19ec-11ea-903f-0ed8bef40efe.PNG)
------------------
 Line Clipping Window Preview </br>
 ![view_clipped_line](https://user-images.githubusercontent.com/35567854/70389660-b3ef4480-19ec-11ea-9fcd-3da11ef95320.PNG)
------------------
 
 etc....
